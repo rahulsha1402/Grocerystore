@@ -4,6 +4,6 @@ node{
      }
     stage('Compile-packagee'){
       
-      sh "${mvnHome}/bin/mvn package"
+      sh "mvn package"
      }
 }
