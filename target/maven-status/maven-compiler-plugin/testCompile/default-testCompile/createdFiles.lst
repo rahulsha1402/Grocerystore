@@ -1,0 +1,5 @@
+com/sample/service/VegetableServiceTest.class
+com/sample/service/UserServiceTest.class
+com/sample/controllerWithoutDb/RegisterTest.class
+com/sample/controllerWithoutDb/ChangePasswordTest.class
+com/sample/controllerWithoutDb/LoginTest.class
